@@ -8,6 +8,8 @@
 - Programming :
 1. Belajar C++
 2. Belajar GUI C++
+3. Belajar Javascript
+4. Belajar Phyton
 
 - Robotics :
 1. Belajar Transistor dan Dioda
