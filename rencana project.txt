@@ -13,4 +13,6 @@
 - Robotics :
 1. Belajar Transistor dan Dioda
 2. Belajar K-Map
+3. Belajar Mikrokontroler
 
+jangan lupa bayar kas
