@@ -4,6 +4,8 @@
 3. Belajar Bootstrap
 4. Belajar PHP
 5. Belajar Javascript
+6. Have fun
+7. Don't die
 
 - Programming :
 1. Belajar C++
