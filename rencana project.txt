@@ -8,11 +8,12 @@
 - Programming :
 1. Belajar C++
 2. Belajar GUI C++
-3. Belajar Jawascript
 
 - Robotics :
 1. Belajar Transistor dan Dioda
 2. Belajar K-Map
-3. Belajar Mikrokontroler
+
 
 jangan lupa bayar kas
+
+Kurangi kas
