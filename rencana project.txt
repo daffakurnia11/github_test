@@ -5,11 +5,18 @@
 4. Belajar PHP
 5. Belajar Javascript
 6. Belajar Github
+7. Belajar Laravel
+8. Belajar Sass
 
 - Programming :
 1. Belajar C++
 2. Belajar GUI C++
+3. Belajar Javascript
+4. Belajar Phyton
 
 - Robotics :
 1. Belajar Transistor dan Dioda
 2. Belajar K-Map
+3. Belajar Mikrokontroler
+
+jangan lupa bayar kas
